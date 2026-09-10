@@ -45,8 +45,8 @@ Criar um relógio digital funcional, aplicando:
 
 ## 📷 Imagens do Projeto
 ### Circuito 24h
-![Relógio 24h](https://astraya-associacao.org/imagens/multsim.png?_t=1767807872)
-![Relógio 24h](https://astraya-associacao.org/imagens/multsim2.png?_t=17678078751)
+![Relógio 24h](https://astraya-associacao.org/images/multsim.png?_t=1767807872)
+![Relógio 24h](https://astraya-associacao.org/images/multsim2.png?_t=17678078751)
 
 ---
 
